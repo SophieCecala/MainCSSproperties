@@ -44,3 +44,23 @@ img {
     font-weight: bold;
     margin-bottom: 20px;
 }
+.author-country{
+    font-style: italic;
+    color: #343434;
+}
+.clear{
+    clear: both;
+}
+.btn{
+    color: #ffffff;
+    background-color: red;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+    width: 100px;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    margin:40px auto;
+}
